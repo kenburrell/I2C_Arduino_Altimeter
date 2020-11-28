@@ -12,7 +12,7 @@ the same as Sea Level Pressure (SLP), as SLP is adjusted for a 12-hour
 average temperature, rather than for current conditions.
 
 The shield requires the use of 4 extra long female shield headers ( 4pins,
-6pins, and two 8pins) to enable the use of 3 female/femae jumper wires for
+6pins, and two 8pins) to enable the use of 3 female/female jumper wires for
 RST,VCC,GND and 2 female/male jumper wires for SDA,SCL connections to the 
 BME280 sensor.
 
